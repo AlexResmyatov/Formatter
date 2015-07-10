@@ -1,0 +1,7 @@
+[
+  "it.sevenbits.format.formatter.handler.Brackets",
+  "it.sevenbits.format.formatter.handler.Letters",
+  "it.sevenbits.format.formatter.handler.Semicolons",
+  "it.sevenbits.format.formatter.handler.Spaces",
+  "it.sevenbits.format.formatter.handler.Other"
+]

@@ -1,0 +1,29 @@
+
+
+
+       public
+
+         class Main
+
+      {
+        public
+
+                    static       void
+                    main(
+                    String[] args)
+                               throws IOException {
+
+             InStream in = new FileInStream("in.txt");
+                           OutStream out
+
+
+                      = new FileOutStream("out.txt");
+
+
+        Format2.format(in,out)        ;
+
+
+        System.out.print(outs.getString())        ;
+        out.close();
+    }
+}
